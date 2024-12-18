@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 :grinning:
+
+I'm Dave De Vetta, I have a bunch of useful apps, including the world-renowned AbInitio Log Viewer!
+
+All code here. Email at dave@ddvman.com
 
 <!--
 **ddevetta/ddevetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
